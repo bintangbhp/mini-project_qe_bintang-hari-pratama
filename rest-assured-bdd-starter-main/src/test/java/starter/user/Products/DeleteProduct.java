@@ -2,7 +2,6 @@ package starter.user.Products;
 
 import net.serenitybdd.annotations.Step;
 import net.serenitybdd.rest.SerenityRest;
-import org.hamcrest.Matchers;
 
 import starter.utils.JsonSchema;
 import starter.utils.JsonSchemaHelper;
