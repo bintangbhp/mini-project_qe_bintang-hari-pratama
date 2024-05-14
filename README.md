@@ -6,7 +6,7 @@ Tugas untuk menyelesaikan mini project quality engineer dari Alterra Academy.
 ## Test Case Document
 sertakan link test case untuk setiap platform:
 - API: [Link Test Case](https://docs.google.com/spreadsheets/d/1dVJ3fr66i5ojvH83zzqS6Da9vn_6FS1L8CT6dUjzLbA/edit?usp=sharing)
-- Web: link test case
+- Web: [Link Test Case](https://docs.google.com/spreadsheets/d/1Y2fLAUIErDw5cXAjVorgBM6yVtBI3HwZtxLKxL2gJ0I/edit?usp=sharing)
 - Mobile: link test case
 
 ## Tech Stacks
