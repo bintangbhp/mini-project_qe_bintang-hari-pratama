@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Item without Quantity Input</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c25be4c-955e-47a6-9ba1-4a636eb0b19b</testCaseGuid>
+</TestCaseEntity>
