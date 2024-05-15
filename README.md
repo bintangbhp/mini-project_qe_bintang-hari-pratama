@@ -11,12 +11,21 @@ sertakan link test case untuk setiap platform:
 
 ## Tech Stacks
 sebutkan daftar tools dan framework yang digunakan dalam bentuk list seperti ini:
-- tech stack A
-- tech stack B
-- tech stack C
+- Selenium
+- Serenity
+- Katalon (with Android Virtual Device)
 
 ## Test Results
 Sertakan hasil test yang sudah dijalankan di setiap platform. hasil test merupakan hasil report yang digenerate oleh serenity
 
 ## Setup 
-sebutkan cara menggunakan project ini di lokal
+### API & Web Testing
+1. Clone this Repository
+2. Run the test
+```shell
+mvn clean verify
+```
+
+### Mobile Testing
+1. Clone this Repository
+2. Run the test with Android Virtual Device or Real Device
